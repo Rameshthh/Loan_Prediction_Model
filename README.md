@@ -1,5 +1,3 @@
-# Loan_Prediction_Model
-
 # Loan Prediction Project
 
 ## 📌 Project Overview
